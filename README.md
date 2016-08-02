@@ -1,2 +1,2 @@
 # gitjjm
-It is just to learn Github working
+just created to learn Github working. 
