@@ -1,2 +1,2 @@
 # gitjjm
-just created to learn Github working. 
+It´s a nice working environment!
